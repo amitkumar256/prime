@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+div{
+    background-color: azure;
+}
+p{
+    color:red;
+    font-size: larger;
+    font-weight: bolder;
+}
